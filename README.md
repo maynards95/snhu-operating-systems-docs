@@ -3,8 +3,7 @@
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 
 
-    The Gaming Room Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-    was a game company that requested I make a game titled "Draw It or Lose It". They needed this game to work on multiple platforms and they wanted it based on their already existing game on Android. 
+    The Gaming Room was a game company that requested I make a game titled "Draw It or Lose It". They needed this game to work on multiple platforms and they wanted it based on their already existing game on Android. 
 
 Design Constraints
 
